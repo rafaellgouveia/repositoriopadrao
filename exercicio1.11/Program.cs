@@ -9,8 +9,7 @@ namespace exercicio1._11
             //Primeiro exercício com orientação a objetos
         {
             Produto produto = new Produto();
-            Produto produto2 = new Produto();
-
+ 
             Console.WriteLine("Entre com os dados do produto: ");
             Console.Write("Nome: ");
             produto.Nome = Console.ReadLine();
